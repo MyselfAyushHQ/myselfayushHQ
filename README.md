@@ -2,6 +2,8 @@
 
 project 1 - https://myselfayush.com </br>
 
+project 2 - https://blog.myselfayush.com = My Thoughts </br>
+
 project 2 - https://sparkthefuture.in </br>
 
 project 3 - https://bits.sparkthefuture.in </br>
