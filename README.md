@@ -9,3 +9,7 @@ project 3 - https://bits.sparkthefuture.in </br>
 ### Experimental projects
 
 project 1 - https://mythoughts-c4e7b.web.app/  = My Thoughts
+
+### Friends Projects
+
+Project 1 - https://tourism-analytics-project.web.app/
