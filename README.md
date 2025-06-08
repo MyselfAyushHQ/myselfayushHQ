@@ -13,7 +13,7 @@ Project 2 - https://blog.myselfayush.com = My Thoughts </br>
 
 Project 2 - https://sparkthefuture.in </br>
 
-Project 3 - https://bits.sparkthefuture.in </br> = only for Bits Students
+Project 3 - https://bits.sparkthefuture.in  = only for Bits Students</br>
 
 Project 4 - https://journal.sparkthefuture.in    = Mindful Journal </br>
 
