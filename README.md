@@ -1,11 +1,11 @@
 ### All Organisation
- https://github.com/myself-ayush     - https://myselfayush.com   - hi@myselfayush.com </br>
+ Myself Ayush = https://github.com/myself-ayush     - https://myselfayush.com   - hi@myselfayush.com </br>
 
- https://github.com/sparkthefuture    - https://sparkthefuture.in - sparkthefuture.in@gmail.com </br>
+ Spark The Future = https://github.com/sparkthefuture    - https://sparkthefuture.in - sparkthefuture.in@gmail.com </br>
 
- https://github.com/techrevolutionhub </br>
+ Tech Revolution Hub = https://github.com/techrevolutionhub </br>
 
-### main project
+### Main Project
 
 project 1 - https://myselfayush.com </br>
 
@@ -17,7 +17,9 @@ project 3 - https://bits.sparkthefuture.in </br>
 
 project 4 - https://journal.sparkthefuture.in    = journal entry </br>
 
-### Experimental projects
+### Team Project
+
+### Experimental Projects
 
 project 1 - https://mythoughts-c4e7b.web.app/  = My Thoughts </br>
 
