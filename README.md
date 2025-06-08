@@ -1,5 +1,9 @@
+### All Organisation
+# https://github.com/myself-ayush     - myselfayush.com   - hi@myselfayush.com </br>
 
-### https://github.com/myself-ayush
+# https://github.com/sparkthefuture    - sparkthefuture.in - sparkthefuture.in@gmail.com </br>
+
+# https://github.com/techrevolutionhub </br>
 
 ### main project
 
