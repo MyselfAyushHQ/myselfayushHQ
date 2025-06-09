@@ -3,8 +3,6 @@
 
  Spark The Future = https://github.com/sparkthefuture    - https://sparkthefuture.in - sparkthefuture.in@gmail.com </br>
 
- Tech Revolution Hub = https://github.com/techrevolutionhub </br>
-
 ### Main Project
 
 Project 1 - https://myselfayush.com </br>
