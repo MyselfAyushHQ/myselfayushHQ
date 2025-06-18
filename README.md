@@ -1,2 +1,2 @@
-#visit - MyselfAyush.com  - Dev@myselfayush.com </br>
-#main - github.com/myself-ayush
+#visit - https://MyselfAyush.com  - Dev@myselfayush.com </br>
+#main - https://github.com/myself-ayush
