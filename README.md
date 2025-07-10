@@ -1,3 +1,3 @@
-#visit - https://MyselfAyush.com  - Dev@myselfayush.com </br>
+#visit - https://MyselfAyush.com  - Hi@myselfayush.com </br>
 
 #main - https://github.com/myself-ayush
