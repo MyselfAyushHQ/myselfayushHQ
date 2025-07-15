@@ -4,6 +4,6 @@
 
 
 
-# Web- https://MyselfAyush.com  - Hi@myselfayush.com </br>
+# Web - https://MyselfAyush.com  - Hi@myselfayush.com </br>
 
 # main - https://github.com/myself-ayush
