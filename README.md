@@ -6,4 +6,5 @@
 
 # Web - https://MyselfAyush.com  - Hi@myselfayush.com </br>
 
-# main - https://github.com/astralelite-open-source
+# - https://github.com/astralelite-open-source
+# - Https://github.com/myself-ayush
