@@ -2,10 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Problem+Solver" alt="Problem Solver" />
 </div>
 
-
-Web - https://MyselfAyush.com - Hi@myselfayush.com
-- https://github.com/astralelite-open-source
-- https://github.com/myself-ayush
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=myselfayush010&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Web - https://MyselfAyush.com  - Hi@myselfayush.com </br>
 
