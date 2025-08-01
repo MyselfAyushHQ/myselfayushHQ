@@ -3,6 +3,11 @@
 </div>
 </br>
 
+<div align="center">
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=myselfayush010&theme=darkhub&no-frame=true&title=Commits&column=1&cache_bust=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ### Hi there, I'm Ayush! 👋
 
