@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=45&pause=0&color=FFFFFF&center=true&vCenter=true&width=435&lines=Problem+Solver" alt="Problem Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=40&pause=0&color=2F81F7&center=true&vCenter=true&width=600&lines=Problem+Solver" alt="Problem Solver" />
 </div>
-</br>
 
-### Hi there, I'm Ayush! 👋
+## Hi there, I'm Ayush 👋
 
-I'm a Computer Science student at **BITS Pilani** and the founder of [**Astral Elite**](https://astralelite.org), where I build solutions for real-world problems.
+Computer Science student at BITS Pilani and founder of [Astral Elite](https://astralelite.org) with a passion for creating innovative solutions
 
-
-📫 **How to reach me:**
-- Email: [hi@myselfayush.com](mailto:hi@myselfayush.com)
-#  HOME: [myselfayush.com](https://myselfayush.com)
+#  Home: [MyselfAyush.com](https://myselfayush.com)  
+- Email: hi@myselfayush.com
