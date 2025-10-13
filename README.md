@@ -4,5 +4,5 @@
 
 Computer Science@BITS, Pilani  | Founder of Astral Elite |  T-Shaped Engineer & Problem Solver 💡| Top 6% at TryHackMe
 
-#  Home: [MyselfAyush.com](https://myselfayush.com)  
-- Email: hi@myselfayush.com
+#  Home: [MyselfAyush.com](https://myselfayush.com)  | Future - [AstralElite.org](https://AstralElite.org)
+- Email: hi@myselfayush.com                          | - Email - Hi@AstralElite.org
