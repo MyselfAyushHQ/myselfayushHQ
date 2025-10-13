@@ -7,9 +7,9 @@ Computer Science@BITS, Pilani  | Founder of Astral Elite |  T-Shaped Engineer & 
 #  Home: [MyselfAyush.com](https://myselfayush.com)  | Future - [AstralElite.org](https://AstralElite.org)
 - Email: hi@myselfayush.com                          | - Email - Hi@AstralElite.org
 ---
-Project 1 - [Xue Ai : Elite Thinker](https://xue.AstralElite.org)
-Project 2 - [Encrypted Onion Forum](https://github.com/AstralElite-open-source/Encrypted-onion-forum)
-Project 3 - [Flow : one click installation](https://Flow.AstralElite.org)
-Project 4 - [Mindful Journal](https://journal.AstralElite.org)
-Project 5 - [Hash pro's : Learn DSA](https://hashpros.AstralElite.org)
-Project 6 - [Bits student community](https://bits.AstralElite.org)
+Project 1 - [Xue Ai : Elite Thinker](https://xue.AstralElite.org) </br>
+Project 2 - [Encrypted Onion Forum](https://github.com/AstralElite-open-source/Encrypted-onion-forum) </br>
+Project 3 - [Flow : one click installation](https://Flow.AstralElite.org) </br>
+Project 4 - [Mindful Journal](https://journal.AstralElite.org) </br>
+Project 5 - [Hash pro's : Learn DSA](https://hashpros.AstralElite.org) </br>
+Project 6 - [Bits student community](https://bits.AstralElite.org) </br>
