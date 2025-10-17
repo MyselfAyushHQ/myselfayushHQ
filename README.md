@@ -13,3 +13,10 @@ Project 3 - [Flow : one click installation](https://Flow.AstralElite.org) Boost 
 Project 4 - [Mindful Journal](https://journal.AstralElite.org) Easy to Track your life with encryption</br>
 Project 5 - [Hash pro's : Learn DSA](https://hashpros.AstralElite.org) collect one more Resource in your wallet </br>
 Project 6 - [Bits student community](https://bits.AstralElite.org) Student life made easy because everything at one place</br>
+---
+## Practical Experience
+- Self Hosted Open Vpn and wireguard vpn - [Blog.MyselfAyush.com](https://blog.myselfayush.com)
+- Self Hosted Gitlab 
+- Self hosted Github and Gitlab runner
+- Docker swarm - Multi vm practice
+- kubernates practice done by minkube, muti vm  and multi cloud
