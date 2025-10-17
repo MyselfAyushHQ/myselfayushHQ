@@ -17,8 +17,8 @@
  - [Bits student community](https://bits.AstralElite.org) Student life made easy because everything at one place</br>
 ---
 ## Practical Experience
-- [Self Hosted Open Vpn and wireguard vpn](https://blog.myselfayush.com)
-- Self Hosted Gitlab 
-- Self hosted Github and Gitlab runner
-- Docker swarm - Multi vm practice
-- kubernates practice done by minkube, muti vm  and multi cloud
+- [Self Hosted **Open Vpn** and **wireguard vpn**](https://blog.myselfayush.com)
+- Self Hosted **Gitlab** 
+- Self hosted **Github Runner** and **Gitlab runner**
+- **Docker swarm** - Multi vm practice
+- **kubernates** practice done by minkube, muti vm  and multi cloud
