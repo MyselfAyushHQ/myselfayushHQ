@@ -23,8 +23,7 @@
      - Tech Stacks : React , Typescript , Firestore and GCP Bucket | Google Cloud
 ---
 ## Practical Experience
-- [Self Hosted **Open Vpn** and **wireguard vpn**](https://blog.myselfayush.com)
-- Self Hosted **Gitlab** 
-- Self hosted **Github Runner** and **Gitlab runner**
-- **Docker swarm** - Multi vm practice
-- **kubernates** practice done by minkube, muti vm  and multi cloud
+- [Self-hosted **OpenVPN** and **WireGuard** VPN server for secure private networking.](https://blog.myselfayush.com)
+- Managed a self-hosted **GitLab** instance with integrated **GitHub/GitLab Runners** for CI/CD.
+- Implemented a multi-VM **Docker Swarm** cluster for container orchestration practice.
+- Practiced **Kubernetes** deployments on **minikube**, multi-VM, and multi-cloud environments.
