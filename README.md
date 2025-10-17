@@ -24,6 +24,7 @@
 ---
 ## Practical Experience
 - [Self-hosted **OpenVPN** and **WireGuard** VPN server for secure private networking.](https://blog.myselfayush.com)
-- Managed a self-hosted **GitLab** instance with integrated **GitHub/GitLab Runners** for CI/CD.
+- Managed a self-hosted **GitLab** instance with integrated **GitLab Runners** for CI/CD.
+- Managed Self hosted **Github runner** for CI?CD.
 - Implemented a multi-VM **Docker Swarm** cluster for container orchestration practice.
 - Practiced **Kubernetes** deployments on **minikube**, multi-VM, and multi-cloud environments.
