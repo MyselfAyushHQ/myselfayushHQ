@@ -8,12 +8,13 @@
 ## Mythoughts - [Blog.MyselfAyush.com](https://blogmyselfayush.com) | Project Blog - [Blog.AstralElite.org](https://blog.AstralElite.org)
 ### Email Me: hi@myselfayush.com                         | Email Us- Hi@AstralElite.org                   
 ---
-Project 1 - [Xue Ai : Elite Thinker](https://xue.AstralElite.org) - Decrease Docker Image size 2x by seprating builder and runner</br>
-Project 2 - [Encrypted Onion Forum](https://github.com/AstralElite-open-source/Encrypted-onion-forum) Freedom to Share Your Thought With Heavy Encryption and Anonymity </br>
-Project 3 - [Flow : one click installation](https://Flow.AstralElite.org) Boost My Productivity and Testing 10x </br>
-Project 4 - [Mindful Journal](https://journal.AstralElite.org) Easy to Track your life with encryption</br>
-Project 5 - [Hash pro's : Learn DSA](https://hashpros.AstralElite.org) collect one more Resource in your wallet </br>
-Project 6 - [Bits student community](https://bits.AstralElite.org) Student life made easy because everything at one place</br>
+## Projects
+ - [Xue Ai : Elite Thinker](https://xue.AstralElite.org) - Decrease Docker Image size 2x by seprating builder and runner</br>
+ - [Encrypted Onion Forum](https://github.com/AstralElite-open-source/Encrypted-onion-forum) Freedom to Share Your Thought With Heavy Encryption and Anonymity </br>
+ - [Flow : one click installation](https://Flow.AstralElite.org) Boost My Productivity and Testing 10x </br>
+ - [Mindful Journal](https://journal.AstralElite.org) Easy to Track your life with encryption</br>
+- [Hash pro's : Learn DSA](https://hashpros.AstralElite.org) collect one more Resource in your wallet </br>
+ - [Bits student community](https://bits.AstralElite.org) Student life made easy because everything at one place</br>
 ---
 ## Practical Experience
 - [Self Hosted Open Vpn and wireguard vpn](https://blog.myselfayush.com)
