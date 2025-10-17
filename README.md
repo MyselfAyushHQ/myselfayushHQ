@@ -16,7 +16,7 @@ Project 5 - [Hash pro's : Learn DSA](https://hashpros.AstralElite.org) collect o
 Project 6 - [Bits student community](https://bits.AstralElite.org) Student life made easy because everything at one place</br>
 ---
 ## Practical Experience
-- Self Hosted Open Vpn and wireguard vpn - [Blog.MyselfAyush.com](https://blog.myselfayush.com)
+- [Self Hosted Open Vpn and wireguard vpn](https://blog.myselfayush.com)
 - Self Hosted Gitlab 
 - Self hosted Github and Gitlab runner
 - Docker swarm - Multi vm practice
