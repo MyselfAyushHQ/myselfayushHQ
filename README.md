@@ -17,7 +17,7 @@
     - Tech Stack : React , Typescript | Github CI/CD | Google cloud
  - [Bits student community](https://bits.AstralElite.org) Student life made easy because everything at one place</br>
      - Tech Stacks : React , Typescript , Firestore and GCP Bucket | Google Cloud
----
+       
 ## Practical Experience
 - [Self-hosted **OpenVPN** and **WireGuard** VPN server for secure private networking.](https://blog.myselfayush.com)
 - Managed a self-hosted **GitLab** instance with integrated **GitLab Runners** for CI/CD.
