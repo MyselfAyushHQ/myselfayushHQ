@@ -4,7 +4,7 @@
 
 # Computer Science@BITS, Pilani  | Founder of Astral Elite |  T-Shaped Engineer & Problem Solver 💡| Top 5% at TryHackMe
 
-Email - MyselfAyushofficial@gmail.com
+ Email - MyselfAyushofficial@gmail.com
 
 ## Projects
  - [Xue Ai : Elite Thinker](https://xue.AstralElite.org) - Decrease Docker Image size 2x by seprating builder and runner</br>
@@ -21,7 +21,7 @@ Email - MyselfAyushofficial@gmail.com
      - Tech Stacks : React , Typescript , Firestore and GCP Bucket | Google Cloud
        
 ## Practical Experience
-- [Self-hosted **OpenVPN** and **WireGuard** VPN server for secure private networking.](https://blog.myselfayush.com)
+- Self-hosted **OpenVPN** and **WireGuard** VPN server for secure private networking.
 - Managed a self-hosted **GitLab** instance with integrated **GitLab Runners** for CI/CD.
 - Deployed a self-hosted **GitHub Runner** for CI/CD automation.
 - Implemented a multi-VM **Docker Swarm** cluster for container orchestration practice.
