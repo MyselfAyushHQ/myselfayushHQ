@@ -4,9 +4,7 @@
 
 # Computer Science@BITS, Pilani  | Founder of Astral Elite |  T-Shaped Engineer & Problem Solver 💡| Top 5% at TryHackMe
 
-#  Home: [MyselfAyush.com](https://myselfayush.com)  | Future - [AstralElite.org](https://AstralElite.org) </br>
-## Mythoughts - [Blog.MyselfAyush.com](https://blog.myselfayush.com) | Project Blog - [Blog.AstralElite.org](https://blog.AstralElite.org)
-### Email Me: hi@myselfayush.com                         | Email Us- Hi@AstralElite.org                   
+
 ---
 ## Projects
  - [Xue Ai : Elite Thinker](https://xue.AstralElite.org) - Decrease Docker Image size 2x by seprating builder and runner</br>
