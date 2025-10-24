@@ -4,8 +4,6 @@
 
 # Computer Science@BITS, Pilani  | Founder of Astral Elite |  T-Shaped Engineer & Problem Solver 💡| Top 5% at TryHackMe
 
-
----
 ## Projects
  - [Xue Ai : Elite Thinker](https://xue.AstralElite.org) - Decrease Docker Image size 2x by seprating builder and runner</br>
      - Tech Stacks : Kotlin , Python and Docker
